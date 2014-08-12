@@ -10,8 +10,9 @@ Feel free to access [my porfolio](https://portfolio.jordanhudgens.com).
 
 > ##  Donec suscipit nibh sodales, mollis metus vel.
 >
->
 > ## Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci **velit**...".
+>
+>
 
 ### Crazy good Software
 * Rapid development
