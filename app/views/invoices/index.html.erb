@@ -16,7 +16,7 @@
       <tbody>
         <% @invoices.each do |invoice| %>
           <tr>
-            <td><%= invoice.date.strftime("%m/%d/%y") %></td>
+            <td><%= invoice.date.strftime("%y/%m/%d/") %></td>
             <td><%= invoice.company %></td>
             <td><%= invoice.tax %></td>
             <td><%= invoice.salesperson %></td>
